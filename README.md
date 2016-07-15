@@ -9,7 +9,7 @@ describing our approach for the ECML/PKDD Bank Challenge.
 - Clone or download this repository
 
 - Open KNIME and select File > Import KNIME Workflow and import the ``Seeminer-ecml-pkdd-challenge.knar`` file.
-- You should now have a folder in your KNIME Explorer containing two workflows
+- You should now have a folder named `Challenge` in your KNIME Explorer containing two workflows
   1. __Bank visit prediction__ This is our approach for Task 1
   2. __Upselling Prediction__ This is our approach for Task 2
   
